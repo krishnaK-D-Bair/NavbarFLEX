@@ -1,1 +1,1 @@
-basic navbar using FLEXBOX
+basic navbar using CSS FLEXBOX
