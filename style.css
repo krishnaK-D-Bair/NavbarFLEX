@@ -1,0 +1,26 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(243, 54, 54);
+    color: white;
+    font-weight: 800;
+    border-radius: 30px;
+}
+ul{
+    display: flex;
+}
+ ul li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    padding-left: 20px;
+    color: whitesmoke;
+    transition: all ease-in .5s;
+}
+a:hover{
+    color: black;
+    
+}
